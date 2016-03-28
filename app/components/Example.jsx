@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default () => <div>Example Component</div>
+export default () => <div>Hello Flux Template!</div>

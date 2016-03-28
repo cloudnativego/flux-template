@@ -4,3 +4,4 @@ node_modules/
 npm-debug.log
 
 flux-template
+/assets/bundle.js
